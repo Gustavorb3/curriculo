@@ -1,6 +1,6 @@
 # Currículo WEB
 
-*A ideia do projeto era criar o currículo em HTML-CSS com uma página simples e implementar o framework Bootstrap para torná-lo responsivo. Após sua implementação, realizar o deploy no GitHub Pages.*
+*A ideia do projeto era criar o currículo em HTML-CSS com uma página simples e implementar o framework Bootstrap para torná-lo responsivo, e após sua implementação realizar o deploy no GitHub Pages.*
 
 ## Ferramentas Utilizadas:
 

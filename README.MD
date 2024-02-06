@@ -5,8 +5,9 @@
 ## Ferramentas Utilizadas:
 
 - Template Bootstrap [clique aqui](https://startbootstrap.com/theme/resume)
-- Framework
+- Framework Bootstrap
 - AOS
+- Noções de HTML-CSS
 
 ## Etapas de Edição:
 

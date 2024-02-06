@@ -11,10 +11,10 @@
 
 ## Etapas de Edição:
 
-- **edit01:** Criação do currículo
-- **edit02:** Versão do currículo em HTML e CSS
-- **edit03:** Implementação do Bootstrap
-- **edit04:** Adicionando informações e habilidades
-- **edit05:** Ainda preciso entender melhor como ler a documentação de um framework e aplicá-la no projeto, sempre lembrando que a base é o mais importante
-- **edit06:** Incluindo API do Google, WhatsApp e e-mail
-- **edit07:** Além da API, também foram inseridas transições por meio do AOS Animate e botão de redirecionamento para WhatsApp
+- **edit01:** criação do currículo
+- **edit02:** versão do currículo em HTML e CSS
+- **edit03:** implementação do Bootstrap
+- **edit04:** adicionando informações e habilidades
+- **edit05:** ainda preciso entender melhor como ler a documentação de um framework e aplicá-la no projeto, sempre lembrando que a base é o mais importante
+- **edit06:** incluindo API do Google, WhatsApp e e-mail
+- **edit07:** além da API, também foram inseridas transições por meio do AOS Animate e botão de redirecionamento para WhatsApp
